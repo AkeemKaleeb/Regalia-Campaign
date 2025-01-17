@@ -1,0 +1,1 @@
+The Leader of the [[Wasteland Valley]] of [[Goblin]] descent. He is one member of the [[13 Ruling Families]].

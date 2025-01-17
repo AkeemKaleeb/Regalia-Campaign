@@ -1,0 +1,1 @@
+The Capital City of [[Regalia]] ruled by [[King Darius]].

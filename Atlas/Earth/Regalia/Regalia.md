@@ -1,0 +1,1 @@
+The main country of the campaign. It is a kingdom at war with its northern counterpart [[Espon]]. It is ruled by the evil [[King Darius]], son of [[Sebastian the Great]]. Filled with many rich cities although greatly outnumbered by smaller, very poor villages sprawled across the nation. 

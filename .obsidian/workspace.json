@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "73351a14a0f09c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9700fc5297e5cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa8f925f6dbdc97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ω assets/templates/gpt_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gpt_template"
+            }
+          },
+          {
+            "id": "e7b0b74e2ba53cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Earth/Regalia/Cities/Yhiridil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yhiridil"
+            }
+          },
+          {
+            "id": "87260e10e13c2be0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a3b465d59cfd540",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae68879b9692736c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07dfc6892602d28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3fb624c3a3c2f05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77df4969c3880ce5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b13edb58d2abb8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b282b1a23935530",
+        "type": "tabs",
+        "dimension": 31.285714285714285,
+        "children": [
+          {
+            "id": "92f5504edf0ce806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Players/Anara.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anara"
+            }
+          },
+          {
+            "id": "d62ad5800e2089d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Players/Anara.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Anara"
+            }
+          },
+          {
+            "id": "c33ed6e269975d0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "052732750fbbb05a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlas/Earth/Regalia/Cities/Yhiridil.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Yhiridil"
+            }
+          },
+          {
+            "id": "7115153f3d3bd8c9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "ae7e0101033add56",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4b696c16174c1590",
+        "type": "tabs",
+        "dimension": 68.71428571428572,
+        "children": [
+          {
+            "id": "c51bbd032da81b6d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-textgenerator-plugin:Generate Text!": true,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "e7b0b74e2ba53cd5",
+  "lastOpenFiles": [
+    "Regalia-Campaign",
+    "Atlas/Earth/Regalia/Cities/Wasteland Valley.md",
+    "Atlas/Earth/Regalia/Cities/Norwich Mines.md",
+    "Atlas/Earth/Regalia/Cities/Marketh.md",
+    "Atlas/Earth/Regalia/Regalia.md",
+    "Characters/Players/Mori Mirage.md",
+    "Characters/Players/Anara.md",
+    "Characters/NPCs/Lord Therius Hellstorm.md",
+    "Characters/NPCs/Turk Mudbones.md",
+    "Characters/NPCs/Sir Ulbrik Strongarm.md",
+    "Characters/NPCs/Sir Rurg the Dagger.md",
+    "Characters/NPCs/Prince Galemorn.md",
+    "Characters/NPCs/Master Vulmek Bazavur.md",
+    "Characters/NPCs/Lord Landis Truthbinder.md",
+    "Characters/NPCs/Lady Swan Call.md",
+    "Characters/NPCs/Lady Aslen Seawitch.md",
+    "Ω assets/pdfs/Monster Manual.pdf",
+    "Temple of the Nereids.md",
+    "Ω assets/pdfs/Players Handbook.pdf",
+    "Ω assets/pdfs/Dungeon Master's Guide.pdf",
+    "Ω assets/maps/Regalia Map.md",
+    "Characters/Players/Tiki.md",
+    "Characters/Players/Selene Valois.md",
+    "Characters/Players/Lord Poog the Twost.md",
+    "Characters/NPCs/Ansel.md",
+    "DM Tools/Session Notes/Act 1 - Session 6.md",
+    "DM Tools/Session Notes/Act 1 - Session 2.md",
+    "Ω assets/templates/gpt_template.md",
+    "Ω assets/templates/session_template.md",
+    "Ω assets/templates",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "Ω assets/pdfs/Tasha’s Cauldron of Everything.pdf",
+    "Ω assets/pdfs/Mordenkainen's Tome of Foes.pdf"
+  ]
+}

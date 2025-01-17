@@ -1,0 +1,1 @@
+Military City led by [[Sir Ulbrik Strongarm]]

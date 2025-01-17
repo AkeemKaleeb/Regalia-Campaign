@@ -1,0 +1,1 @@
+The Lord of [[New Portsmouth]] of [[Tiefling]] descent. He is one member of the [[13 Ruling Families]].

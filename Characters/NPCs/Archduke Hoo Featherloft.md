@@ -1,0 +1,1 @@
+The Archduke of the [[King's Divide]] of [[Aarakocra | Aarakocran]] descent. He is one member of the [[13 Ruling Families]].

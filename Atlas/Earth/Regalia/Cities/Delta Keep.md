@@ -1,0 +1,1 @@
+Small trade city led by [[Sir Rurg the Dagger]]

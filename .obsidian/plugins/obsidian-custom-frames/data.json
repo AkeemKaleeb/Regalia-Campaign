@@ -1,0 +1,65 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/138053648",
+      "displayName": "Anara",
+      "icon": "scroll-text",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/112055709",
+      "displayName": "Selene",
+      "icon": "scroll-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/133069924",
+      "displayName": "Mori",
+      "icon": "scroll-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/profile/maximedeperrois/characters/130644744",
+      "displayName": "Lord Poog",
+      "icon": "scroll-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/profile/maxneedstogetout/characters/133071229",
+      "displayName": "Tiki",
+      "icon": "scroll-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

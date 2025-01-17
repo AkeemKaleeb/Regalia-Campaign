@@ -1,0 +1,1 @@
+The Ruling Knight of the [[Norwich Mines]] of [[Dwarf | Dwarvish]] descent. He is one member of the [[13 Ruling Families]].

@@ -1,0 +1,1 @@
+Wealthy merchant living in the heart of [[Yhiridil]]. Provides shelter to players

@@ -1,0 +1,1 @@
+Mountainous town led by [[Sir Ebrik Thunderguard]]

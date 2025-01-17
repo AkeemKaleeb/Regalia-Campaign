@@ -1,0 +1,1 @@
+Small town led by [[Lady Lily Rozoth]]

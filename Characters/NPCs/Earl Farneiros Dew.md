@@ -1,0 +1,1 @@
+The Earl of [[Farcomb Reach]] of [[Elf | Wood Elvish]] descent. He is one member of the [[13 Ruling Families]].

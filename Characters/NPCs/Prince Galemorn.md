@@ -1,0 +1,1 @@
+Son of [[King Darius]], betrothed to [[Selene Valois]]

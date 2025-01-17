@@ -1,0 +1,1 @@
+Small town community located east of the [[Wagner Mountain Rang]]. Most known for 20-story Sword reaching out of the ground towards the heavens. Under control by cult group [[Followers of Thull]]. 
