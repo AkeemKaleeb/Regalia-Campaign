@@ -52,20 +52,84 @@ As the party explores the city, a shadowy figure begins tailing [[Selene]]. She 
 - This involves navigating [[Yhiridil]]’s underbelly, gathering information about the spy network, and unearthing connections to [[King Darius]]. The party will discover that this spy is working on orders from within the castle and may even be connected to the cult of Thull.
     - Initial clues include the brooch, reports of the spy’s appearance near noble estates, and a lead to the _Tavern of Whispers_—a hub for information brokers in the city.
   
+#### **Location: The Temple of the Nereids**
 
-## Secrets and Clues  
-  
-* Secret description  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
-  
+**Description**: The temple, dedicated to Selene, goddess of the sea, is an architectural marvel in the heart of Yhiridil. Its domed roof is encrusted with pearls and sapphires, giving it a shimmering, oceanic effect. The interior is equally breathtaking:
+
+- Pools of water mirror the constellations, enchanted to reflect the night sky at all times.
+- Statues of nereids, crafted from translucent blue crystal, seem to hum with faint divine energy.
+- Whispered prayers carry a melodic resonance, creating an air of tranquility.
+
+**Important NPCs Here**:
+
+1. **Sister Mirabel**:
+    - A wise and compassionate priestess who raised Selene during her time in the sisterhood. Mirabel radiates calm authority and often speaks in metaphors tied to the sea.
+    - She expresses joy upon seeing Selene but quickly grows curious about the bloodstained brooch if Selene shares it.
+    - She hints that Amphitrite’s favor often requires trials of the heart and warns Selene to be wary of "tempests in familiar waters."
+2. **Acolyte Leorin**:
+    - A young, overeager priest who idolizes Selene’s past dedication. He volunteers to guide the party through the temple and offers insights into its history and rituals.
+    - If Selene shows signs of distress, Leorin nervously suggests consulting the temple’s sacred pools for guidance.
+
+---
+
+#### **Scene: The Sacred Pools**
+
+Selene is invited by Sister Mirabel to seek divine insight from the temple’s Sacred Pools of Reflection. These pools are enchanted to reveal visions tied to a seeker’s past, present, or future.
+
+**Mechanics**:
+
+- Selene (or any character who assists) must offer a personal sacrifice—a memory, an object of emotional value, or a fragment of their divine connection—to activate the pool.
+
+**Possible Outcomes**:
+
+1. **Visions of the Past**:
+    - Selene sees fragments of her childhood and a shadowy figure looming over her family crest. The vision suggests betrayal but offers no clarity about the culprit.
+    - A flickering image of a young girl—her sister, perhaps—reaches out to her before being pulled into darkness.
+2. **Glimpses of the Present**:
+    - A vision shows the bloodstained brooch being handed to a cloaked figure. The figure’s hand bears the insignia of a noble house connected to [[King Darius]].
+3. **Prophecy of the Future**:
+    - The pool reveals an impending confrontation: Selene stands in a dark chamber, wielding radiant light against shadowy cultists. At her side is someone who seems familiar, yet her identity remains unclear.
+
+Sister Mirabel interprets the visions cryptically, cautioning Selene that she must "untangle the currents of her lineage" to find peace.
+
+---
+
+#### **Plot Hook: The Shadowy Figure Returns**
+
+As the party leaves the temple, the shadowy figure from earlier reappears. This time, they are more brazen, leaving a trail of subtle clues leading the group to a hidden area in the city.
+
+1. **Trail of Clues**:
+    - A torn piece of fabric matching the figure’s cloak, bearing the Valois family crest discovered outside the temple.
+    - A passerby mentions seeing someone matching the figure’s description heading toward the [[Tavern of Whispers]].
+
+---
+
+#### **Location: Tavern of Whispers**
+
+**Description**: Nestled in the back alleys of Yhiridil, this dimly lit establishment is a hub for spies, informants, and those seeking answers. Its owner, **Marya the Whisper**, is a sharp-witted tiefling who trades information for coin or favors.
+
+**Key Interactions**:
+
+1. **Marya the Whisper**:
+    
+    - She offers information about the figure in exchange for a favor: retrieving a stolen ledger from a rival.
+    - If persuaded, she reveals that the figure works for an influential noble house secretly funding the cult of Thull.
+2. **Optional Combat/Skill Challenge**:
+    
+    - The party may confront the shadowy figure directly here, leading to either a fight or a tense negotiation.
+
+---
+
+#### **Selene’s Personal Arc Objectives**
+
+1. **Unearth Family Secrets**:
+    
+    - Gather more information about the significance of her family crest and its connection to the cult.
+    - Piece together clues from the brooch and visions to locate her lost sibling or relatives.
+2. **Confront the Cult’s Influence in Yhiridil**:
+    
+    - Expose the noble house aiding the cult of Thull.
+    - Strengthen her divine bond by reaffirming her commitment to her path or seeking closure from the temple.
 ## Fantastic Locations  
   
 #### **Location 1: The Gates of Yhiridil**
@@ -91,17 +155,55 @@ A wealthy and grateful merchant who hides his mysterious past. Ansel’s reward 
 **NPC 3**: _[[Sister Mirabel]]_  
 A high-ranking priestess of the temple who knows [[Selene Valois|Selene]] well. She shows both warmth and concern for Selene, subtly probing her intentions since her departure.
 
-- _Role_: Mirabel is an anchor to Selene’s past, gently reminding her of her vows and raising tension around her decision to leave the sisterhood.
-  
-## Potential Monsters  
-  
-* Name  
-*  
-*  
-*  
-## Potential Treasure  
-  
-* Description  
-*  
-*  
-*
+- _Role_: Mirabel is an anchor to Selene’s past, gently reminding her of her vows and raising tension around her decision to leave the sisterhood
+
+
+[[Minds of the Swamp]], book for advantage on swamp creatures
+
+Technicolor Dreamclothes - they can change to any color of the wearer's choice as an action.
+
+Clothes of laundering - much less illegal than they sound, they can change to any state of cleanliness as an action (can be as dirty or clean as you like).
+
+Hat of many fashions - like the cloak from XGTE, it becomes any type or style of hat you like, but it must always be a hat. Could also be repurposed for other articles of clothing; boots of many fashions, etc.
+
+Fragrant clothes - they are embroidered with various gaudy patterns, such as loud floral motifs, that perpetually smell like whatever is depicted. Could be several variations; pleasant-smelling ones like flowers, and less-pleasant ones like a pastoral landscape that smells like a dairy farm.
+
+Clothes of glistening - maybe they're magical, maybe they're just sequinned, but one thing's for sure: they're fabulous!
+
+Perpetually Stylish Clothes - they continually change to be whatever is most in style in their current location. The wearer has no control over the transformations, but they'll always be stylin'! They also have a counterpart, the last season's clothes, which are always just out of style.
+
+Clothes of Mothballs - whenever anyone reaches into the pockets of these clothes, 1d4 moths fly out of the open pocket.
+
+Quitter's Shirt - this shirt has a breast pocket that always contains one piece of chewing gum. The gum's flavor matches the color of the shirt. Comes in mint green or cinnamon red.
+
+Forgettable Clothes - no one can seem to remember _what_ these clothes look like. Just how _was_ that guy dressed, again?
+
+Cloak of Over-Billowing - a malfunctioning Cloak of Billowing, this one just flaps all the time, as if in a strong wind.
+
+Truthful Trousers - the first time the wearer of these dashing trousers speaks a lie, the trousers burst into flame and dissolve into ash. The wearer takes 1d6 fire damage.
+
+Ring of Illusion: Create stationary minor Illusions. Hide behind them or something.
+
+Ring of the Fairie: Create Dancing Lights at-will. Good for making shadows or distracting gaurds.
+
+Ring of sleep: Put said gaurds to sleep!
+
+The Charmer: Max 4 charges, 1d4 charges gained per sunset (Seen or otherwise, depending on game). Spend a charge to cast charm person.
+
+Ring of Launching: Cast Catapult at will from things within your hand
+
+Assassin's Ring: Gain 1d6 sneak attack at the start of combat.
+
+
+Thorwina Jeweler Goblin
+Deb Animal Handler Human
+
+Fight priestesses, very magic
+
+Fantasia's Fantastical Wears
+
+alluin 16
+erin 14
+max 11
+erica 4
+aashna 1

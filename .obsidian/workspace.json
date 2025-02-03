@@ -8,45 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aa8f925f6dbdc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ω assets/templates/gpt_template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gpt_template"
-            }
-          },
-          {
             "id": "e7b0b74e2ba53cd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Earth/Regalia/Cities/Yhiridil.md",
+                "file": "DM Tools/Session Notes/Act 1 - Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yhiridil"
+              "title": "Act 1 - Session 6"
             }
           },
           {
-            "id": "87260e10e13c2be0",
+            "id": "a0ee480e58059933",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Players/Mori Mirage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mori Mirage"
+            }
+          },
+          {
+            "id": "dd8d9f3d11b84040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Players/Selene Valois.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selene Valois"
+            }
+          },
+          {
+            "id": "ff71296ba777f1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Players/Anara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anara"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b13edb58d2abb8aa",
@@ -113,6 +131,26 @@
         "type": "tabs",
         "dimension": 31.285714285714285,
         "children": [
+          {
+            "id": "1ff71c63b837d29f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "ae7e0101033add56",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
           {
             "id": "92f5504edf0ce806",
             "type": "leaf",
@@ -177,22 +215,21 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "ae7e0101033add56",
+            "id": "4ed5a275c278b033",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "4b696c16174c1590",
@@ -213,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,26 +258,33 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-textgenerator-plugin:Generate Text!": true,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "fantasy-content-generator:Fantasy Generators": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "e7b0b74e2ba53cd5",
+  "active": "1ff71c63b837d29f",
   "lastOpenFiles": [
+    "Characters/Players/Anara.md",
+    "DM Tools/Session Notes/Act 1 - Session 6.md",
+    "Untitled.canvas",
+    "Characters/Players/Mori Mirage.md",
+    "Characters/Players/Selene Valois.md",
+    "DM Tools/Session Notes/Act 1 - Session 2.md",
+    "Temple of the Nereids.md",
+    "Ω assets/templates/gpt_template.md",
+    "Atlas/Earth/Regalia/Cities/Yhiridil.md",
     "Regalia-Campaign",
     "Atlas/Earth/Regalia/Cities/Wasteland Valley.md",
     "Atlas/Earth/Regalia/Cities/Norwich Mines.md",
     "Atlas/Earth/Regalia/Cities/Marketh.md",
     "Atlas/Earth/Regalia/Regalia.md",
-    "Characters/Players/Mori Mirage.md",
-    "Characters/Players/Anara.md",
     "Characters/NPCs/Lord Therius Hellstorm.md",
     "Characters/NPCs/Turk Mudbones.md",
     "Characters/NPCs/Sir Ulbrik Strongarm.md",
@@ -251,24 +295,17 @@
     "Characters/NPCs/Lady Swan Call.md",
     "Characters/NPCs/Lady Aslen Seawitch.md",
     "Ω assets/pdfs/Monster Manual.pdf",
-    "Temple of the Nereids.md",
     "Ω assets/pdfs/Players Handbook.pdf",
     "Ω assets/pdfs/Dungeon Master's Guide.pdf",
     "Ω assets/maps/Regalia Map.md",
     "Characters/Players/Tiki.md",
-    "Characters/Players/Selene Valois.md",
     "Characters/Players/Lord Poog the Twost.md",
     "Characters/NPCs/Ansel.md",
-    "DM Tools/Session Notes/Act 1 - Session 6.md",
-    "DM Tools/Session Notes/Act 1 - Session 2.md",
-    "Ω assets/templates/gpt_template.md",
-    "Ω assets/templates/session_template.md",
     "Ω assets/templates",
     "textgenerator/templates/dalle",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
-    "Ω assets/pdfs/Tasha’s Cauldron of Everything.pdf",
-    "Ω assets/pdfs/Mordenkainen's Tome of Foes.pdf"
+    "Ω assets/pdfs/Tasha’s Cauldron of Everything.pdf"
   ]
 }
